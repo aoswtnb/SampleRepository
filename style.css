@@ -1,0 +1,15 @@
+
+img {
+    width:150px;
+    height:150px;
+    object-fit:cover;
+    border-radius:50%;
+    vertical-align: middle;
+    display: inline-block;
+}
+.sp {
+    display: inline-block;
+}
+.li a {
+    text-align: center;
+}
